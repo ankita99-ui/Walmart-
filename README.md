@@ -84,7 +84,9 @@ The **<font color="#004080">Walmart</font><font color="#FF8C00">.csv</font>** co
 - In examining the specified variables in this analysis, namely temperature, unemployment, CPI, and fuel prices, it was noticed that sales exhibit a marginal increase during favorable weather conditions and when fuel prices are reasonable. However, it's essential to note the cautious stance due to the study's reliance on a relatively limited training dataset. Upon closer inspection during exploratory data analysis, it became apparent that sales tend to experience a relative uptick in periods of lower unemployment levels. Conversely, based on the dataset provided for this study, no discernible correlation was found between sales and the CPI index. Once again, it's imperative to approach these observations with prudence, considering the need for a more expansive training dataset containing additional information for making robust claims.
 
 
-# 1 . **Bakshi, C. (2020). Random forest regression.**
+# References
+
+1 . **Bakshi, C. (2020). Random forest regression.**
       https://levelup.gitconnected.com/random-forest-regression-209c0f354c84
      
 
