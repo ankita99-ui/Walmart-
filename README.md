@@ -1,5 +1,9 @@
+<div align="center" style="border:2px solid #333; padding:20px; width:500px; margin:auto;">
 
-<div style='text-align:center; border:2px solid #333; padding:20px; width:500px; margin:0 auto;'><img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg' alt='Walmart Logo' style='width:100%; max-width:450px; height:auto; display:block; margin:0 auto;'><font size='+3' color='#FFA500'><b>Sales Forecasting</b></font></div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg" 
+alt="Walmart Logo" width="300"/>
+
+<font size='+3' color='#FFA500'><b>Sales Forecasting</b></font></div>
 
 
 
