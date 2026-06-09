@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/512px-Walmart_logo.svg.png" width="250"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1UGjc7HpUul9UsZMNBJVaigH70Ue_KycIkA&s" width="220"/>
 </p>
 
 <font size='+3' color='#FFA500'><b>Sales Forecasting</b></font></div>
