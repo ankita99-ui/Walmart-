@@ -1,7 +1,6 @@
-<div align="center" style="border:2px solid #333; padding:20px; width:500px; margin:auto;">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg" 
-alt="Walmart Logo" width="300"/>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/512px-Walmart_logo.svg.png" width="250"/>
+</p>
 
 <font size='+3' color='#FFA500'><b>Sales Forecasting</b></font></div>
 
